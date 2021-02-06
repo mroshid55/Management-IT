@@ -1,0 +1,22 @@
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.MDIParent1.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.Product_Info_Form.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.Properties.Resources.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.csproj.GenerateResource.Cache
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.exe.config
+C:\Users\GHL_SRV\documents\visual studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.csprojResolveAssemblyReference.cache
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.exe
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.pdb
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.exe
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.pdb
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.exe.config
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.exe
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.pdb
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.exe
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\bin\Debug\Store Management-IT.pdb
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.csprojResolveAssemblyReference.cache
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.MDIParent1.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.Product_Info_Form.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store_Management_IT.Properties.Resources.resources
+C:\Users\GHL_SRV\Documents\Visual Studio 2013\Projects\Store Management-IT\Store Management-IT\Store Management-IT\obj\Debug\Store Management-IT.csproj.GenerateResource.Cache
